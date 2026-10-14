@@ -748,6 +748,7 @@ The literature is organized along two complementary perspectives:
 | 2023 | ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills | ICLR | [paper](https://openreview.net/forum?id=b_CQDy9vrD1) | [code](https://github.com/mani-skill/ManiSkill) |
 | 2025 | SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents | arXiv | [paper](https://arxiv.org/abs/2412.13178) | [code](https://github.com/shengyin1224/SafeAgentBench) |
 | 2025 | EmbodiedBench: Comprehensive Benchmarking Multi-Modal Large Language Models for Vision-Driven Embodied Agents | ICML | [paper](https://openreview.net/forum?id=DgGF2LEBPS) | [code](https://github.com/EmbodiedBench/EmbodiedBench) |
+| 2026 | RoboQuest: Generalist Physical Agents that Search, Inspect and Test | arXiv | [paper](https://arxiv.org/abs/2610.10388) | [code](https://github.com/declare-lab/RoboQuest) |
 
 #### General Computer Control
 
