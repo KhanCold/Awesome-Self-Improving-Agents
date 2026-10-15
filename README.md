@@ -603,6 +603,8 @@ depending on **which component is improved** during learning and adaptation.
   | 2026 | Harness-Zero: Harness Distillation via Agent-as-Harness | arXiv | [paper](https://arxiv.org/abs/2609.24974) | [code](https://github.com/metaevo-ai/harness-zero) |
   | 2026 | SelfSearch: Reward-Free Search for Self-Improving Agents | arXiv | [paper](https://arxiv.org/abs/2609.37968) | N/A |
   | 2026 | AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation | arXiv | [paper](https://arxiv.org/abs/2609.35530) | [code](https://github.com/KuOnoda/AutoRef) |
+  | 2026 | ReCreate: Reasoning and Creating Domain Agents Driven by Experience | ACL | [paper](https://arxiv.org/abs/2601.11100) | [code](https://github.com/zz-haooo/ReCreate) |
+  | 2026 | Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems | arXiv | [paper](https://arxiv.org/abs/2605.29790) | [code](https://github.com/zz-haooo/Meta-Team) |
   
 </details>
 
